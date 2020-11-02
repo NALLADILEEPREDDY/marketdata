@@ -1,6 +1,6 @@
 {
   "name": "marketdata",
-  "homepage": "http://marketdata.com/"
+  "homepage": "http://marketdata.com/",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
