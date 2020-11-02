@@ -23,10 +23,10 @@ function ProductCard(props) {
         />
         <h1>{selectedImage.title}</h1>
         <p className="price">
-          MinimumPrice:{`\u20B9${selectedImage.minimumPrice}`}
+          Minimum Price:{`\u20B9${selectedImage.minimumPrice}`}
         </p>
         <p className="price">
-          MaximumPrice:{`\u20B9  ${selectedImage.maximumPrice}`}
+          Maximum Price:{`\u20B9  ${selectedImage.maximumPrice}`}
         </p>
       </div>
     </div>
